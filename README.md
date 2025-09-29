@@ -3,3 +3,4 @@ A demo app for React and Django Deployment
 
 docker-compose down
 docker-compose up -d
+Running on port 8001
