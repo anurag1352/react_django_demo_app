@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  mainapp:
+    build:
+      context: .
+    container_name: "react-cont"
+    ports:
+      - "8001:8001"
